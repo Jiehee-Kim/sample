@@ -20,6 +20,9 @@ public class MainTest {
 		
 		//spring에서 추가한 내용3
 		System.out.println("3번째로 " + vo.getSpring());
+		
+		//git-hub에서 추가한 내용3
+		System.out.println("3번째로 " + vo.getGit());
 	}
 
 }
