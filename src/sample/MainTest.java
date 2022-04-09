@@ -3,7 +3,7 @@ package sample;
 public class MainTest {
 
 	public static void main(String[] args) {
-		//spring에서 추가한 내용1
+		//spring에서 추가한 내용
 		System.out.println("test");
 		
 		//git-hub에서 추가한 내용1
